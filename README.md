@@ -16,7 +16,7 @@ Acesse minhas redes sociais
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![python](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-## :fa-cloud-download: Baixando Repositório
+## 📌 Baixando Repositório
 
 Digite o comando abaixo no seu terminal para baixar o repositório.
 
@@ -25,4 +25,4 @@ git clone https://github.com/devjoseh/Beecrowd-Problems.git
 ```
 ## 📝 Licença
 
-Este projeto está licenciado. Veja mais [detalhes](https://github.com/devjoseh/DiscordJS-V14-YouTube-Videos/blob/main/LICENSE)
+Este projeto está licenciado. Veja mais [detalhes](https://github.com/devjoseh/Beecrowd-Problems/blob/main/LICENSE)
