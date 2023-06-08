@@ -1,0 +1,5 @@
+pontuacao = list(map(int, input("A: ").split(" ")))
+maior = max(pontuacao)
+pontuacao.remove(maior)
+maior = max(pontuacao)
+print(maior)
