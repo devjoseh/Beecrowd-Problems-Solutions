@@ -1,0 +1,7 @@
+console.log("-".repeat(39))
+console.log("|"+" ".repeat(37)+"|")
+console.log("|"+" ".repeat(37)+"|")
+console.log("|"+" ".repeat(37)+"|")
+console.log("|"+" ".repeat(37)+"|")
+console.log("|"+" ".repeat(37)+"|")
+console.log("-".repeat(39))

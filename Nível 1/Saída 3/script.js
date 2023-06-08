@@ -1,0 +1,7 @@
+console.log("-".repeat(39))
+console.log("|x = 35"+" ".repeat(31)+"|")
+console.log("|"+" ".repeat(37)+"|")
+console.log("|"+" ".repeat(15)+"x = 35"+" ".repeat(16)+"|")
+console.log("|"+" ".repeat(37)+"|")
+console.log("|"+" ".repeat(31)+"x = 35"+"|")
+console.log("-".repeat(39))
