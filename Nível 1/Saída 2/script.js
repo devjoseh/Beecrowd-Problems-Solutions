@@ -1,7 +1,0 @@
-console.log("-".repeat(39))
-console.log("|"+" ".repeat(8)+"Roberto"+" ".repeat(22)+"|")
-console.log("|"+" ".repeat(37)+"|")
-console.log("|"+" ".repeat(8)+"5786"+" ".repeat(25)+"|")
-console.log("|"+" ".repeat(37)+"|")
-console.log("|"+" ".repeat(8)+"UNIFEI"+" ".repeat(23)+"|")
-console.log("-".repeat(39))
