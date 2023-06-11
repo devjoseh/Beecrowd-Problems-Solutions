@@ -1,5 +1,5 @@
 # Seja Bem-Vindo(a)
-## 🚀 _BeeCrowd / URI - Problems_
+## 🚀 _Problems UriOnlineJudge / Beecrowd Solutions_
 
 Nesse repositório você irá encontrar todos os problemas do BeeCrowd que foram realizados por mim.
 
