@@ -1,7 +1,11 @@
 # Seja Bem-Vindo(a)
-## 🚀 _BeeCrowd / URI - Problems_
+## 🚀 _Problems UriOnlineJudge / Beecrowd Solutions_
 
 Nesse repositório você irá encontrar todos os problemas do BeeCrowd que foram realizados por mim.
+
+## 😴 Perfil
+
+Acesse meu perfil do Beecrowd [clicando aqui](https://www.beecrowd.com.br/judge/pt/profile/809106)
 
 ## 🧒 Autor
 
@@ -14,7 +18,7 @@ Acesse minhas redes sociais
 
 *Todas as linguagens que foram usadas por mim para resolver os problemas do BeeCrowd*
 
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![python](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![lua5.4](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ## 📌 Baixando Repositório
 
