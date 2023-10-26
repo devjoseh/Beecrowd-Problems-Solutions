@@ -25,7 +25,7 @@ Acesse minhas redes sociais
 Digite o comando abaixo no seu terminal para baixar o repositório.
 
 ```bash
-git clone https://github.com/devjoseh/Beecrowd-Problems.git
+git clone https://github.com/devjoseh/Beecrowd-Problems-Solutions.git
 ```
 ## 📝 Licença
 
